@@ -42,7 +42,7 @@ $base64Image = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA\nAAAFCAYAAACN
         }
 
         .image-container img {
-            max-width: 200px;
+            max-width: 800px;
             height: auto;
         }
     </style>
