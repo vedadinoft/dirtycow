@@ -1,8 +1,6 @@
 <?php
 // RGB color definition
 $rgbColorStart = "rgb(255, 0, 102)"; // Start color (Pinkish)
-// Base64 image string
-$base64Image = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA\nAAAFCAYAAACNbyblAAAAHElEQVQI12P4\n//8/w38GIAXDIBKE0DHxgljNBAAO\n9TXL0Y4OHwAAAABJRU5ErkJggg=="; // Sample image
 ?>
 <!DOCTYPE html>
 <html lang="en">
